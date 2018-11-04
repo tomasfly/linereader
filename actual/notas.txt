@@ -1,0 +1,171 @@
+Hi Andreina,
+
+Thanks for contacting me regarding this job opportunity. Unfortunately I am not looking for a job change at this time. I hope we can keep in contact for future considerations. In case I know someone that could apply, I will refer it to you.
+
+Regards,
+
+Tomás
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Hola Alberto,
+
+
+
+Gracias por contactarte en relación a esta oportunidad laboral. En este momento no estoy pensando en un cambio. Espero mantener el contacto contigo para futuras consideraciones. Si llego a conocer a algún candidato que pueda aplicar en el puesto, te lo refiero.
+
+
+
+Un saludo,
+
+
+
+Tomás
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Hi Sebastián,
+
+Thanks for contacting me regarding this interesting opportunity and I'm sorry for the late reply. Unfortunately I am not looking for a job change at this time. I hope we can keep in contact for future considerations. In case I know someone that could apply, I will refer it to you.
+
+Regards,
+
+Tomás
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Hola Laura,
+
+Gracias por contactarte en relación a esta interesante propuesta laboral en Wallbox. En este momento no estoy pensando en un cambio. Espero mantener el contacto contigo para futuras consideraciones. Si llego a conocer a algún candidato que pueda aplicar en el puesto, te lo refiero.
+
+Saludos,
+
+Tomás
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Hola Vinícius,
+
+Gracias por contactarte y disculpa la demora en responder. En este momento no estoy pensando en un cambio. Espero mantener el contacto contigo para el futuro. Si llego a conocer a algún candidato que pueda aplicar en el puesto, te lo refiero.
+
+Saludos,
+
+Tomás
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Hi Sebastián,
+
+Thanks for contacting me regarding this interesting opportunity and sorry for the late reply. I have been reading about the company and I found it very interesting. Unfortunately I am not looking for a job change at this time. I hope we can keep in contact for opportunities in the future. In case I know someone that could apply, I will let you know.
+
+Regards,
+
+Tomás
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Hi Elizabeth,
+
+Thanks for contacting me for this amazing opportunity at ThoughtWorks. Unfortunately I am not looking for a job change at this time. I hope we can keep in contact for opportunities in the future. In case I know someone that could apply, I will let you know.
+
+Regards,
+
+Tomás
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Hi Sebastián,
+
+Thanks for contacting me regarding this interesting opportunity and I'm sorry for the late reply. Unfortunately I am not looking for a job change at this time. I hope we can keep in contact for future considerations. In case I know someone that could apply, I will refer it to you.
+
+Regards,
+
+Tomás
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Notas:
+
+mvn archetype:generate -DgroupId=com.Haufe.app -DartifactId=HaufeTest -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+<!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.12</version>
+    <scope>test</scope>
+</dependency>
+
+format xml:
+
+ctrl shift p 
+Format Document
+
+git config --global user.email "tomas.fleiderman@gmail.com"
+git config --global user.name "Tomas Fleiderman"
+
+beautify visual studio code: shift alt f
+
+instrucciones como instalar e2e testing
+
+install protractor
+
+Pre requisites:
+- Install Node js.
+- Install Yarn.
+
+e2e instructions:
+yarn install
+./node_modules/protractor/bin/webdriver-manager update
+yarn test
+
+api_testing
+yarn install
+yarn test
+
+https://www.tusubtitulo.com/show/1655
+https://thepiratebay.cr
+
+Seriesw.net
+ 
+684660753
+33-1064127440
+Y5839124J
+Tomas Fleiderman
+Carrer de Valencia 494 Atico 3 Escalera Derecha B
+
+cosas:
+
+- mensaje nico abogado por papeles casa. Ya le escribi. Me dijo que va a preguntar pero que en tambien se pueden conseguir en la municipalidad.
+- llamar a hoteles de amsterdam y ibiza para confirmar.
+- revisar impuestos de auto y de casa.
+
+Contraseña ADESLAS
+Asdasd123,
+
+link para carnet de conducir:
+
+https://transitocordoba.com/2016/09/como-manejar-en-el-exterior-con-el-carnet-de-conducir-de-cordoba/
+
+Cosas para hacer:
+
+https://www.timeout.es/barcelona/es/que-hacer/28-escapadas-de-cultura-naturaleza-y-diversion-con-los-fgc
+https://www.timeout.es/barcelona/es/arte/que-ver-en-barcelona-50-lugares-que-no-te-puedes-perder
+
+Notas para empezar bien en un trabajo:
+https://www.themuse.com/advice/8-tips-for-rocking-your-first-day-at-a-new-job
+
+Linda nota con consejos:
+https://www.infobae.com/america/mundo/2018/07/22/soy-un-millennial-millonario-y-asi-es-como-lo-hice/
+
+El Interesado Y5839124J ya tiene una cita pendiente para la misma oficina y área de tramitación.Fecha y Hora de la cita pendiente: 25/10/2018 a las 08:40.
+Si continua se procedera automáticamente anular la cita anterior.
+¿está Vd. seguro?
+
+Requisitos para el canje:
+-Pasaporte en vigor (original).
+-Autorización de residencia legal en España (original). Se trata de tu tarjeta de indentidad de extranjero: TIE. Si eres Argentino/a con doble nacionalidad (una de ellas de la UE) podrás presentar la llamada “Tarjeta verde” (Certificado de Registro de Ciudadanos de la Unión)
+-Informe de aptitud psicofísica, que es un documento que certifica que eres apto/a para conducir vehículos. Debes ir previamente a un centro de reconocimientos médicos para conductores (por ejemplo en Barcelona, en los alrededores de la jefatura de tráfico de la Campana hay muchos) y someterte a un reconocimiento médico (te realizarán pruebas en la vista, oídos, coordinación de movimientos, …). Actualmente el mismo centro médico envía a la Jefatura de Tráfico el informe de aptitud de forma telemática.
+-Permiso de conducir Argentino en vigor (original y fotocopia).
+-Fotografía reciente y en color, de 32 x 26 mm, con fondo blanco.
+-Talón foto (es un modelo normalizado que se facilita el día de la cita en la Jefatura de Tráfico, donde colocarán la foto y que se debe rellenar y firmar en el recuadro indicado).
